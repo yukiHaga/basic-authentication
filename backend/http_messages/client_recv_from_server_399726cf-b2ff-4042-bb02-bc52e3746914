@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Fri, 08 Sep 2023 06:47:02
+Server: HenaGoServer/0.1
+Content-Length: 234
+Content-Type: text/html; charset=UTF-8
+Connection: Close
+
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>HenaServer</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <img alt="logo" src="logo.png">
+  <h1>Welcome to HenaServer!</h1>
+</body>
+</html>

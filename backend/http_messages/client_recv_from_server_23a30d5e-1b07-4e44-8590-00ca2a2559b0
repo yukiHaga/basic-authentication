@@ -1,0 +1,9 @@
+HTTP/1.1 302 Found
+Date: Fri, 08 Sep 2023 06:30:46
+Server: HenaGoServer/0.1
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+Connection: Close
+Set-Cookie: session_id=c1c3e7d8-f991-4149-80ce-a2bfade4d5aa; HttpOnly
+Location: /mypage
+

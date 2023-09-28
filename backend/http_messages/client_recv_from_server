@@ -1,0 +1,7 @@
+HTTP/1.1 200 Found
+Date: Fri, 08 Sep 2023 06:27:16
+Server: HenaGoServer/0.1
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+Connection: Close
+
